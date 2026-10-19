@@ -1,3 +1,7 @@
+# RoadmadSH-Chinook-database
+Trabalho colaborativo roadmap.sh py, sqllite
+
+
 
 ## Requisitos do projeto
 
@@ -54,6 +58,3 @@ inner join Employee e on c.SupportRepId = e.EmployeeId
 inner join Invoice i on c.CustomerId = i.CustomerId
 GROUP by c.SupportRepId, e.FirstName
 ```
-
-# RoadmadSH-Chinook-database
-Trabalho colaborativo roadmap.sh py, sqllite
