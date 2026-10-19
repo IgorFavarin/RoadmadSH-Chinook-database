@@ -1,5 +1,8 @@
 # RoadmadSH-Chinook-database
 Trabalho colaborativo roadmap.sh py, sqllite
+URL do projeto 
+```https://roadmap.sh/projects/querying-sql-python```
+
 
 
 
